@@ -1,1 +1,1 @@
-Nazdar!
+dobrý den!
