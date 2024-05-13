@@ -86,6 +86,9 @@
             <skillRequirements>
                 <Crafting>1</Crafting>
             </skillRequirements>
+            <recipeUsers>
+				<li>Building_CraftingSpot</li>
+			</recipeUsers>
             <displayPriority>409</displayPriority>
         </recipeMaker>
     </ThingDef>
