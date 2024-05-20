@@ -20,7 +20,7 @@
         <!-- Sets the item graphic for this ThingDef -->
         <!-- For melee weapons, this will be used as the equipped texture as well -->
         <graphicData>
-            <texPath>ExampleMod/ExampleWeapon_Machete</texPath>
+            <texPath>ExampleMod/Weapon_Stick</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
         </graphicData>
@@ -87,7 +87,7 @@
                 <Crafting>1</Crafting>
             </skillRequirements>
             <recipeUsers>
-				<li>Building_CraftingSpot</li>
+				<li>CraftingSpot</li>
 			</recipeUsers>
             <displayPriority>409</displayPriority>
         </recipeMaker>
